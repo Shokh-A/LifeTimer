@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Tick-tock",
+  "description": "See the flow of life time and take actions.",
+  "version": "1.0",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
