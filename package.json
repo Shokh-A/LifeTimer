@@ -1,12 +1,12 @@
 {
-  "name": "react-chrome-extension",
+  "name": "Tick-tock-extension",
   "version": "1.0.0",
-  "description": "react chrome extension template",
+  "description": "The google chrome extension to track the flow of life time.",
   "scripts": {
     "start": "webpack --watch --progress --config webpack.dev.js",
     "build": "webpack --watch --progress --config webpack.prod.js"
   },
-  "author": "",
+  "author": "Shokhjakhon Abdunabiev",
   "devDependencies": {
     "@types/chrome": "^0.0.134",
     "@types/react": "^17.0.3",
